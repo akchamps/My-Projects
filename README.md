@@ -1,3 +1,3 @@
 My-Projects
 ===========
-whitesource enabled
+whitesource enabled 1
